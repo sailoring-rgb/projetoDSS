@@ -7,8 +7,8 @@ Classificação do projeto: .../20
 
 # Autores
 
-- Ana Murta (@AnaMurta10)
-- Ana Henriques (@AnaHenriques01)
+- Ana Murta
+- Ana Henriques
 - Leonardo Freitas
 - Rui Coelho
 - Tiago Carneiro
